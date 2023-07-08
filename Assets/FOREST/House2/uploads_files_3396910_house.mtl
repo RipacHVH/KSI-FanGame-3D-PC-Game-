@@ -1,0 +1,66 @@
+# Blender MTL File: 'untitleed.blend'
+# Material Count: 5
+
+newmtl Bricks060_1K
+Ns 164.305793
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Blender\\3d textures\\Bricks060_1K_NormalGL.jpg
+map_Kd Blender\\3d textures\\Bricks060_1K_Color.jpg
+map_Ns Blender\\3d textures\\Bricks060_1K_Roughness.jpg
+
+newmtl Glass_Window_003
+Ns 364.462832
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.200000 Blender\\3d textures\\Glass_Window_001_normal.jpg
+map_Kd Blender\\3d textures\\Glass_Window_001_basecolor.jpg
+
+newmtl RoofingTiles001_1K
+Ns 364.462832
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Blender\\3d textures\\RoofingTiles001_1K_NormalGL.jpg
+map_Kd Blender\\3d textures\\RoofingTiles001_1K_Color.jpg
+map_Ns Blender\\3d textures\\RoofingTiles001_1K_Roughness.jpg
+
+newmtl Wood051_1K
+Ns 29.752068
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Blender\\3d textures\\Wood051_1K_NormalGL.jpg
+map_Kd Blender\\3d textures\\Wood051_1K_Color.jpg
+map_Ns Blender\\3d textures\\Wood051_1K_Roughness.jpg
+
+newmtl WoodSiding005
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Blender\\3d textures\\WoodSiding005_1K_NormalGL.jpg
+map_Kd Blender\\3d textures\\WoodSiding005_1K_Color.jpg
+map_Ns Blender\\3d textures\\WoodSiding005_1K_Roughness.jpg
